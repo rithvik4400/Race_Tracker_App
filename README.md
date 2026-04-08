@@ -22,10 +22,10 @@ A fun and interactive **Android mini-game** built using **Kotlin + Jetpack Compo
 
 | Home Screen                   | Player Selection                  |
 | ----------------------------- | --------------------------------- |
-| ![Home](<img width="395" height="829" alt="image" src="https://github.com/user-attachments/assets/433d3d17-2511-4282-903d-71ce08fb90b0" />) | !(<img width="376" height="830" alt="image" src="https://github.com/user-attachments/assets/4b3a3e89-aade-4eb1-9f8c-565d7f03e7c1" />)|
+|(<img width="395" height="829" alt="image" src="https://github.com/user-attachments/assets/433d3d17-2511-4282-903d-71ce08fb90b0" />) | !(<img width="376" height="830" alt="image" src="https://github.com/user-attachments/assets/4b3a3e89-aade-4eb1-9f8c-565d7f03e7c1" />)|
 | Race Screen                   | Winner Screen                     |
 | ----------------------------- | --------------------------------- |
-| (<img width="385" height="822" alt="image" src="https://github.com/user-attachments/assets/b794ac52-07db-42a8-baf8-639351b1ae12" />) | ![Winner](<img width="384" height="835" alt="image" src="https://github.com/user-attachments/assets/7cd37478-9c43-481e-b826-bb8f6268c287" />) |
+|(<img width="385" height="822" alt="image" src="https://github.com/user-attachments/assets/b794ac52-07db-42a8-baf8-639351b1ae12" />) | (<img width="384" height="835" alt="image" src="https://github.com/user-attachments/assets/7cd37478-9c43-481e-b826-bb8f6268c287" />) |
 
 ---
 
